@@ -19,6 +19,8 @@ private slots:
 
     void on_calc_clicked();
 
+    void on_calc_2_clicked();
+
 private:
     Ui::MainWindow *ui;
 };
